@@ -4,8 +4,8 @@ Overview
 
 This project analyzes hotel booking data to uncover trends and insights, such as booking patterns, cancellation rates, and customer behavior. The analysis is performed using Python and various data visualization techniques to understand the factors that affect hotel bookings and revenue.
 
-**Key Features
-**
+**Key Features**
+
 Booking Analysis: Explore booking volume, cancellation patterns, and trends across different months and seasons.
 
 Customer Type Insights: Examine the effect of customer types (e.g., transient, group) on average daily rates (ADR) and cancellation likelihood.

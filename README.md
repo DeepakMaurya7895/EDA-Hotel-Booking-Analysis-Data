@@ -1,8 +1,31 @@
 # EDA-Hotel-Booking-Analysis-Data
 
-Project Summary -
-This project aims to analyze hotel booking data to uncover key trends and factors that influence hotel bookings. The dataset contains information on bookings for both city hotels and resort hotels, including details such as booking dates, length of stay, number of guests (adults, children, and babies), and the availability of amenities like parking spaces.
+Overview
 
-The analysis will focus on identifying patterns and trends, such as the best time of year to book a hotel room, the optimal length of stay for the best daily rate, and factors that may contribute to a higher number of special requests. By leveraging this data, the project will provide insights into customer behavior and preferences, helping hotels optimize their offerings, improve customer satisfaction, and maximize revenue.
+This project analyzes hotel booking data to uncover trends and insights, such as booking patterns, cancellation rates, and customer behavior. The analysis is performed using Python and various data visualization techniques to understand the factors that affect hotel bookings and revenue.
 
-The outcome of the project will offer actionable recommendations for hotel managers and stakeholders to enhance their pricing strategies, inventory management, and customer service.
+Key Features
+
+Booking Analysis: Explore booking volume, cancellation patterns, and trends across different months and seasons.
+
+Customer Type Insights: Examine the effect of customer types (e.g., transient, group) on average daily rates (ADR) and cancellation likelihood.
+
+Special Requests Analysis: Investigate factors associated with a high number of special requests.
+
+Visualizations: Generate visual insights using various plots like bar charts, line plots, pair plots, and more.
+
+Key Insights
+
+Booking Trends: Identified months and seasons with the highest and lowest booking rates.
+
+Customer Behavior: Analyzed the impact of customer types on ADR and cancellation likelihood.
+
+Special Requests: Explored factors associated with a high number of special requests.
+
+Visualizations
+
+The project includes a variety of visualizations, such as:
+
+Bar Charts: To show booking volume by month and cancellation patterns.
+Line Plots: To illustrate the effect of the length of stay on the ADR.
+Pair Plots: To explore relationships between different factors like hotel type, market segment, lead time, and special requests.

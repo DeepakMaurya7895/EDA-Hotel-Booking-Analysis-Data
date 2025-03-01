@@ -1,6 +1,6 @@
 # **EDA-Hotel-Booking-Analysis-Data**
 
-Overview
+**Overview**
 
 This project analyzes hotel booking data to uncover trends and insights, such as booking patterns, cancellation rates, and customer behavior. The analysis is performed using Python and various data visualization techniques to understand the factors that affect hotel bookings and revenue.
 

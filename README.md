@@ -27,5 +27,7 @@ Visualizations
 The project includes a variety of visualizations, such as:
 
 Bar Charts: To show booking volume by month and cancellation patterns.
+
 Line Plots: To illustrate the effect of the length of stay on the ADR.
+
 Pair Plots: To explore relationships between different factors like hotel type, market segment, lead time, and special requests.
